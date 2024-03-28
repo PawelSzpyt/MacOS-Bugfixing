@@ -85,6 +85,8 @@ end
 appWatcher = hs.application.watcher.new(applicationWatcher)
 appWatcher:start()
 
+
+-- Window Management - moving windows around the screen using keyboard
 hs.loadSpoon("SpoonInstall")
 
 Install=spoon.SpoonInstall
