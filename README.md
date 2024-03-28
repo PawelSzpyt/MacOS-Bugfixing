@@ -1,6 +1,6 @@
 # Introduction
 
-I recently bought MacOS, but it happened to be broken. Namely, it lacked package manager, it had it's keyboard shortcuts all over the place AND the latest OS version does not allow you to customize these shortcuts to be more aligned with all other operating systems (like CTRL+C and ALT+TAB). I heard Apple is a great brand and I could not wait any longer to start using MacOS, so instead of sending it to Apple to fix it, I fixed it myself. Hopefully Apple fixes these issues in next release and this repo becomes obsolete.
+I recently bought MacOS, but it happened to be broken. Namely, it lacked package manager, it had it's keyboard shortcuts all over the place AND the latest OS version does not allow you to customize these shortcuts to be more aligned with all other operating systems (like CTRL+C and ALT+TAB). I heard Apple is a great brand and I could not wait any longer to start using MacOS, therefore instead of sending it back to Apple to fix it, I fixed it myself. Hopefully Apple fixes these issues in next release and this repo becomes obsolete.
 
 # MacOS Keyboard Shortcut Fix with Hammerspoon
 
